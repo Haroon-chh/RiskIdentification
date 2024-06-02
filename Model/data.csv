@@ -1,0 +1,1055 @@
+Age_Mons,Gender,A1,A2,A3,A4,A5,A6,A7,A8,A9,Ethnicity,Jaundice,ASD_history,Risk
+28,f,0,0,0,0,0,0,1,0,1,middle eastern,yes,no,No
+36,m,1,1,0,0,0,1,1,0,0,White European,yes,no,Yes
+36,m,1,0,0,0,0,0,1,0,1,middle eastern,yes,no,Yes
+24,m,1,1,1,1,1,1,1,1,1,Hispanic,no,no,Yes
+20,f,1,1,0,1,1,1,1,1,1,White European,no,yes,Yes
+21,m,1,1,0,0,1,1,1,1,1,black,no,no,Yes
+33,m,1,0,0,1,1,1,0,1,0,asian,yes,no,Yes
+33,m,0,1,0,0,1,0,1,1,1,asian,yes,no,Yes
+36,m,0,0,0,0,0,0,1,0,1,asian,no,no,No
+22,m,1,1,1,0,1,1,0,1,1,south asian,no,no,Yes
+36,m,1,0,0,1,0,1,1,1,1,Hispanic,yes,yes,Yes
+17,m,1,1,1,1,0,1,1,0,1,middle eastern,yes,no,Yes
+25,f,0,0,0,0,0,0,0,0,0,middle eastern,yes,no,No
+15,f,1,1,1,1,0,0,1,1,1,middle eastern,yes,no,Yes
+18,m,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+12,m,1,1,1,0,1,0,1,0,1,black,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,middle eastern,no,yes,No
+12,f,1,1,1,0,1,1,1,0,1,middle eastern,yes,no,Yes
+29,f,1,0,0,0,1,0,0,0,1,middle eastern,no,no,No
+12,f,1,1,1,0,1,0,1,0,1,black,no,no,Yes
+36,m,1,0,0,1,1,1,1,1,0,middle eastern,no,no,Yes
+36,m,1,0,1,1,1,1,1,1,0,middle eastern,no,no,Yes
+36,m,1,0,1,1,0,1,0,1,1,Native Indian,yes,yes,Yes
+36,m,1,1,1,0,1,1,0,1,0,middle eastern,yes,yes,Yes
+22,m,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+24,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+36,m,1,1,0,1,1,1,1,0,1,middle eastern,no,no,Yes
+35,m,1,1,1,1,1,1,1,1,1,Others,yes,no,Yes
+36,m,0,0,1,1,1,0,1,1,1,middle eastern,no,yes,Yes
+32,m,0,0,0,0,0,0,0,0,0,middle eastern,yes,no,No
+18,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+12,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+12,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+15,f,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+15,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,0,black,no,no,No
+15,f,0,0,0,0,0,0,0,0,0,black,no,no,No
+15,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+19,m,0,0,0,0,0,0,1,0,1,asian,no,no,No
+18,m,0,0,0,0,0,0,0,0,1,middle eastern,yes,no,No
+12,f,0,0,0,0,0,0,0,0,1,White European,no,no,No
+14,f,0,0,0,0,0,0,0,0,1,White European,no,no,No
+14,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,m,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+15,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,f,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+12,f,0,0,0,0,0,0,0,0,1,black,no,no,No
+36,f,0,0,1,1,0,1,1,1,1,White European,no,no,Yes
+32,f,1,0,0,0,0,1,1,1,1,south asian,no,no,Yes
+25,m,0,0,0,1,1,1,1,1,0,asian,no,no,Yes
+15,f,0,0,0,0,0,0,0,0,1,White European,no,no,No
+13,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+13,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+36,m,1,1,0,0,1,1,1,1,1,White European,yes,no,Yes
+30,m,0,0,1,1,1,1,1,0,0,White European,no,no,Yes
+36,m,0,0,1,1,0,0,0,1,0,middle eastern,yes,yes,No
+12,f,1,1,1,1,1,1,1,1,1,White European,no,yes,Yes
+36,f,0,0,0,0,1,0,1,0,1,middle eastern,yes,no,Yes
+29,m,0,0,0,0,0,0,0,0,0,White European,no,yes,No
+23,m,1,0,1,0,0,0,0,0,0,south asian,no,yes,No
+18,f,1,0,1,1,1,1,1,1,1,asian,yes,yes,Yes
+34,m,1,1,0,0,1,1,1,0,0,Others,no,no,Yes
+34,m,0,0,1,1,1,1,1,1,1,asian,no,no,Yes
+21,f,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+30,m,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+26,m,1,1,0,0,1,0,1,0,0,asian,no,no,Yes
+19,m,1,0,0,1,1,1,1,1,0,middle eastern,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+36,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+36,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+30,m,1,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+30,m,0,1,0,0,0,0,0,0,1,middle eastern,no,no,No
+29,m,1,0,1,1,0,1,1,1,0,asian,no,no,Yes
+36,f,1,1,0,1,1,1,1,0,1,White European,yes,no,Yes
+30,m,1,0,1,1,0,1,1,1,0,asian,no,no,Yes
+30,m,1,1,0,1,0,1,1,0,1,middle eastern,no,no,Yes
+23,m,0,0,0,1,1,1,0,1,1,White European,yes,yes,Yes
+22,m,0,0,0,0,0,0,0,0,0,middle eastern,yes,yes,No
+20,m,0,0,0,1,0,0,1,0,1,middle eastern,no,no,No
+34,m,1,0,0,0,1,0,1,1,0,asian,no,no,Yes
+34,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+34,m,0,0,0,0,0,0,0,0,1,asian,no,no,No
+34,m,1,0,0,0,0,0,1,0,1,asian,no,no,No
+32,m,1,1,0,0,1,1,1,1,0,asian,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,Others,yes,yes,No
+33,m,0,0,0,1,0,0,1,1,1,asian,no,no,Yes
+12,f,0,1,0,0,0,0,0,0,1,middle eastern,no,no,No
+24,f,1,0,1,1,1,1,1,1,1,asian,no,no,Yes
+34,m,1,0,0,0,1,0,1,1,1,asian,no,no,Yes
+34,m,0,0,0,0,0,0,0,0,1,asian,no,no,No
+31,f,0,0,0,0,0,0,0,0,1,Others,no,no,No
+24,m,0,0,1,1,0,0,0,0,0,middle eastern,no,no,No
+31,f,0,0,0,0,0,1,1,0,1,middle eastern,no,yes,Yes
+31,f,1,0,0,1,0,1,1,0,1,middle eastern,yes,no,Yes
+36,m,1,1,0,0,0,0,0,1,0,middle eastern,no,no,Yes
+31,f,1,1,0,0,0,1,0,0,1,middle eastern,yes,no,Yes
+25,m,1,1,1,1,1,1,1,1,0,middle eastern,no,no,Yes
+23,f,0,0,0,0,0,0,0,0,1,middle eastern,yes,no,No
+24,m,1,1,0,0,1,1,0,0,1,middle eastern,no,no,Yes
+36,f,1,1,0,0,1,1,1,0,1,middle eastern,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,m,0,0,0,0,1,0,1,0,0,middle eastern,no,no,No
+36,m,0,1,0,0,0,0,1,0,1,south asian,no,no,Yes
+32,m,0,0,0,0,0,0,1,0,0,asian,no,no,No
+32,m,0,0,0,0,0,0,1,0,0,asian,no,no,No
+30,m,1,1,0,0,1,1,1,1,1,White European,yes,yes,Yes
+32,m,0,0,1,1,1,1,1,1,1,asian,no,no,Yes
+32,m,0,0,1,1,0,0,1,0,1,asian,no,no,Yes
+29,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+28,m,1,1,0,0,0,1,0,0,0,middle eastern,no,no,No
+18,m,1,1,0,1,1,1,0,0,1,Hispanic,yes,yes,Yes
+27,m,0,1,0,1,1,0,1,0,1,asian,no,no,Yes
+27,f,0,1,0,0,0,1,1,0,1,White European,no,yes,Yes
+26,f,0,0,0,0,0,0,0,0,0,White European,yes,no,No
+25,f,0,0,0,0,0,1,0,0,0,asian,no,no,No
+19,m,1,1,0,1,1,1,1,1,1,White European,no,no,Yes
+36,m,1,0,0,0,1,0,1,1,1,asian,no,no,Yes
+25,f,0,0,0,0,0,0,0,0,1,White European,no,no,No
+36,m,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+17,f,0,0,1,1,1,1,1,0,1,White European,yes,no,Yes
+36,m,1,1,0,1,1,1,1,0,1,middle eastern,no,no,Yes
+36,f,1,1,1,0,1,1,1,0,1,asian,no,no,Yes
+20,m,1,0,1,1,1,0,0,1,1,asian,no,no,Yes
+33,f,0,0,0,0,0,0,0,0,0,south asian,yes,no,No
+33,f,1,0,0,0,1,0,0,0,0,south asian,yes,no,No
+33,f,1,1,0,0,1,0,0,0,0,south asian,yes,yes,Yes
+34,f,0,0,0,0,1,0,0,0,0,south asian,yes,no,No
+24,m,1,1,1,1,1,1,1,1,1,middle eastern,yes,no,Yes
+36,m,0,0,1,1,1,0,0,1,0,asian,yes,no,Yes
+35,m,1,1,1,1,1,1,1,1,0,south asian,no,no,Yes
+26,f,1,1,0,0,0,0,0,1,0,asian,yes,no,Yes
+23,m,1,1,1,1,1,1,1,1,0,south asian,no,no,Yes
+24,m,1,1,0,1,1,0,1,1,1,middle eastern,no,no,Yes
+36,f,1,1,0,0,0,1,0,0,1,White European,no,no,Yes
+36,f,0,1,0,0,0,0,1,0,1,asian,no,no,No
+26,f,0,0,0,0,1,1,1,0,0,middle eastern,yes,no,No
+23,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+23,m,1,1,0,1,1,1,0,1,0,asian,no,no,Yes
+12,m,0,0,0,0,0,0,0,0,1,asian,no,no,No
+30,f,0,0,0,0,0,0,1,0,0,Latino,no,yes,No
+19,m,1,0,0,0,0,0,0,0,0,White European,no,no,No
+36,f,0,0,0,0,0,0,0,0,1,asian,no,no,No
+33,m,0,1,0,1,0,0,1,0,1,asian,no,no,Yes
+33,m,0,0,0,1,0,0,1,0,1,asian,no,no,No
+26,m,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+33,m,1,1,0,1,0,0,1,0,1,asian,no,no,Yes
+36,m,1,1,0,1,1,1,1,1,1,middle eastern,no,no,Yes
+24,f,1,1,1,1,1,1,1,1,1,White European,no,yes,Yes
+28,m,0,0,1,1,1,1,0,1,0,middle eastern,no,no,Yes
+36,m,0,1,1,1,0,1,0,0,1,asian,no,no,Yes
+30,m,0,1,1,1,0,1,1,1,1,asian,no,no,Yes
+23,m,0,1,0,1,1,1,1,1,1,White European,no,no,Yes
+12,m,1,0,1,1,1,1,0,1,0,White European,yes,no,Yes
+29,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+22,m,0,0,0,0,1,1,1,0,0,White European,no,yes,No
+12,m,0,0,0,0,0,0,1,0,0,asian,no,no,No
+36,f,0,0,0,0,0,0,0,0,1,Others,no,yes,No
+36,f,0,1,0,0,0,0,1,0,1,asian,no,no,No
+30,f,0,0,0,0,0,0,1,0,0,White European,yes,yes,No
+30,f,0,0,0,0,0,0,0,0,0,Latino,no,yes,No
+36,m,0,0,0,0,0,0,0,0,0,mixed,no,no,No
+19,f,0,0,0,1,1,1,0,0,0,mixed,no,no,No
+23,m,0,1,1,1,1,0,1,1,1,middle eastern,no,no,Yes
+12,m,0,0,0,0,0,0,0,0,1,middle eastern,no,yes,No
+36,f,0,1,0,0,0,0,0,0,1,White European,yes,yes,No
+36,f,0,1,0,0,0,0,0,0,1,White European,yes,yes,No
+33,m,1,0,0,0,1,1,0,0,1,asian,no,yes,Yes
+33,m,0,0,1,0,1,0,0,0,1,asian,no,yes,No
+33,m,0,0,1,0,0,1,0,0,0,asian,no,yes,No
+33,m,1,0,1,0,0,1,0,0,0,asian,no,yes,No
+33,m,1,0,1,0,0,1,0,0,0,asian,no,yes,No
+12,f,0,1,0,1,0,1,1,0,0,White European,no,no,Yes
+30,m,0,0,0,1,0,0,0,0,0,south asian,yes,no,No
+33,m,1,0,0,0,0,1,0,1,0,asian,no,yes,No
+30,m,1,0,1,1,0,0,0,0,0,south asian,yes,no,No
+35,m,1,0,1,1,1,1,1,1,1,asian,no,no,Yes
+12,f,0,0,0,0,1,0,1,1,1,White European,yes,no,Yes
+30,m,1,0,1,1,1,1,1,1,1,asian,yes,no,Yes
+32,m,1,1,0,0,0,0,0,0,1,White European,no,yes,No
+31,m,0,1,0,0,0,0,0,0,1,White European,yes,no,No
+31,m,1,1,0,0,0,0,0,0,1,White European,yes,no,No
+24,m,1,0,0,0,1,1,1,0,1,White European,no,yes,Yes
+27,f,0,0,0,0,0,0,1,0,1,south asian,no,no,No
+27,f,1,1,0,0,0,0,1,0,1,south asian,no,no,Yes
+36,m,0,0,0,1,0,0,0,0,0,middle eastern,no,no,No
+36,m,1,0,0,1,0,1,0,0,0,middle eastern,no,no,No
+36,f,1,1,1,1,0,1,1,1,1,asian,yes,no,Yes
+36,f,1,1,0,1,0,1,1,1,0,asian,yes,no,Yes
+20,m,1,1,0,0,0,1,1,1,1,middle eastern,no,no,Yes
+20,m,1,0,1,1,1,1,1,1,1,asian,no,no,Yes
+35,m,0,1,1,0,1,0,1,0,1,middle eastern,no,yes,Yes
+36,f,1,1,1,1,1,1,1,0,1,asian,no,no,Yes
+30,f,1,1,1,1,0,1,1,1,1,black,no,no,Yes
+30,f,1,0,1,1,1,1,1,0,1,black,no,no,Yes
+34,m,1,0,0,0,0,0,1,0,1,White European,yes,yes,Yes
+36,m,1,1,1,1,0,1,1,0,0,Latino,yes,no,Yes
+15,m,1,1,0,0,0,0,1,0,1,middle eastern,yes,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,White European,no,yes,Yes
+36,m,0,0,0,1,1,1,1,0,0,White European,no,no,Yes
+15,m,0,1,0,1,0,1,0,0,0,middle eastern,yes,no,No
+36,m,0,0,0,0,1,0,0,0,1,south asian,no,no,No
+30,m,0,1,1,1,0,0,0,0,0,asian,no,no,No
+36,m,1,1,0,0,1,1,1,1,0,asian,no,no,Yes
+36,f,0,1,0,0,1,1,1,1,1,middle eastern,no,no,Yes
+16,f,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+25,m,0,0,0,0,0,0,1,1,1,Hispanic,no,no,Yes
+35,m,0,0,0,1,0,0,0,0,1,middle eastern,no,no,No
+13,f,0,0,0,0,0,1,0,1,1,middle eastern,no,no,No
+25,f,1,1,1,1,1,1,1,1,1,White European,no,yes,Yes
+22,m,0,1,0,1,1,1,1,0,1,black,no,no,Yes
+23,m,0,1,1,1,1,1,1,0,1,black,no,no,Yes
+36,f,1,1,1,1,0,0,1,1,0,White European,no,no,Yes
+28,m,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+36,m,1,1,0,0,0,0,0,0,1,White European,no,no,Yes
+21,m,1,1,1,1,1,1,1,1,0,middle eastern,yes,no,Yes
+22,m,1,1,1,1,1,1,1,0,1,black,no,no,Yes
+30,f,0,0,0,0,1,0,1,0,1,asian,no,yes,Yes
+13,m,1,1,0,1,0,0,1,1,1,black,yes,yes,Yes
+20,f,1,0,0,1,1,0,1,1,1,middle eastern,no,no,Yes
+22,f,1,1,0,1,1,1,1,1,1,asian,no,no,Yes
+33,m,1,0,0,0,1,1,1,1,0,asian,no,no,Yes
+33,m,1,0,0,0,0,1,1,1,1,asian,no,no,Yes
+36,m,1,0,1,1,1,1,1,1,1,asian,no,no,Yes
+20,m,1,1,1,1,1,1,1,1,1,middle eastern,no,yes,Yes
+36,m,0,1,0,1,1,0,0,1,0,asian,yes,no,Yes
+36,m,0,0,0,1,1,1,1,0,1,asian,yes,no,Yes
+12,f,0,0,0,0,0,0,1,0,1,White European,no,no,No
+36,m,1,1,1,1,0,0,1,0,1,asian,no,no,Yes
+31,m,0,0,0,0,0,0,0,0,0,White European,yes,no,No
+31,m,1,0,0,0,1,1,1,0,0,White European,yes,no,Yes
+31,m,0,0,0,0,0,1,1,0,0,White European,yes,no,No
+15,f,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+19,f,0,1,1,1,1,1,0,1,0,middle eastern,no,no,Yes
+19,f,1,0,1,1,1,1,0,1,0,middle eastern,no,no,Yes
+19,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+24,m,1,1,1,0,1,1,0,1,0,White European,yes,no,Yes
+28,m,0,1,1,1,1,0,1,1,1,south asian,yes,no,Yes
+36,m,1,0,0,1,1,1,0,1,1,asian,no,no,Yes
+28,m,1,1,1,0,0,1,1,1,1,middle eastern,no,yes,Yes
+18,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+26,m,0,0,0,0,1,1,0,0,0,asian,no,no,No
+36,m,1,1,0,1,1,1,1,1,1,black,no,yes,Yes
+23,f,0,0,0,0,1,0,1,1,0,asian,no,no,Yes
+36,m,0,0,0,1,1,1,1,1,1,White European,no,no,Yes
+36,m,1,1,1,1,1,1,1,0,0,asian,no,no,Yes
+31,m,1,1,1,1,1,1,1,0,1,White European,no,no,Yes
+31,m,1,1,1,1,1,1,1,0,1,White European,no,no,Yes
+35,m,1,0,1,1,1,0,1,1,1,White European,no,yes,Yes
+36,m,0,1,0,0,0,0,0,0,0,middle eastern,no,no,No
+23,m,1,1,0,0,1,1,1,1,1,White European,yes,no,Yes
+27,m,1,0,0,0,0,1,1,0,0,White European,yes,yes,No
+33,f,1,1,1,0,0,1,1,1,1,mixed,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,0,White European,yes,yes,Yes
+30,f,1,0,1,1,0,1,0,1,0,middle eastern,no,no,Yes
+30,m,1,0,1,1,0,1,0,0,0,middle eastern,no,no,Yes
+24,m,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+16,f,0,0,1,1,1,1,1,1,0,asian,no,no,Yes
+36,m,0,0,0,0,1,1,1,0,0,asian,yes,no,No
+36,m,0,1,0,0,1,1,1,0,1,asian,no,no,Yes
+36,m,0,0,0,1,1,1,1,0,0,Latino,no,no,Yes
+30,m,1,0,1,1,0,1,1,1,1,White European,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,mixed,no,no,No
+29,m,1,1,0,1,0,0,1,0,1,black,no,no,Yes
+36,m,1,0,1,0,0,1,0,0,0,asian,no,yes,No
+36,m,1,0,1,0,0,1,0,0,0,asian,no,yes,No
+32,m,1,1,0,1,1,1,1,1,1,asian,yes,no,Yes
+32,m,1,1,0,0,0,1,1,1,0,asian,no,no,Yes
+36,m,0,1,0,1,1,1,1,1,0,middle eastern,no,no,Yes
+36,m,0,1,0,1,1,1,0,1,1,middle eastern,no,no,Yes
+25,m,0,0,0,0,0,0,0,0,1,White European,yes,no,No
+12,m,1,1,1,1,1,1,1,1,0,White European,yes,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+27,m,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+15,f,1,1,0,1,1,1,1,0,1,White European,yes,no,Yes
+36,f,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+28,m,1,1,0,0,1,1,1,1,1,White European,no,no,Yes
+24,f,1,1,0,0,0,0,0,0,1,Hispanic,no,no,No
+31,m,0,0,0,0,1,1,1,0,1,Hispanic,yes,no,Yes
+23,m,0,0,1,1,1,1,1,1,1,south asian,no,yes,Yes
+36,m,1,1,0,0,0,0,1,1,0,White European,yes,no,Yes
+26,m,1,1,0,0,0,1,1,0,1,White European,yes,no,Yes
+36,f,0,0,0,0,0,0,1,0,0,asian,no,no,No
+20,m,1,0,0,1,1,0,1,1,1,middle eastern,no,no,Yes
+20,m,0,0,0,1,0,1,1,1,0,middle eastern,no,no,Yes
+31,f,1,1,0,0,0,1,1,1,0,asian,yes,no,Yes
+12,f,0,1,0,0,1,1,1,0,1,Hispanic,yes,yes,Yes
+32,m,0,0,0,0,0,0,0,0,0,White European,yes,no,No
+33,m,1,0,0,0,1,0,0,0,1,White European,no,no,No
+36,m,1,1,1,1,0,1,1,1,0,middle eastern,yes,yes,Yes
+17,m,1,1,1,1,1,1,1,1,1,Hispanic,yes,yes,Yes
+24,f,1,1,1,1,0,1,1,0,1,Hispanic,no,yes,Yes
+18,f,1,1,0,1,1,0,1,1,1,White European,no,no,Yes
+26,m,1,0,1,1,1,1,1,1,1,Others,no,yes,Yes
+23,m,1,1,0,1,1,0,1,1,0,asian,no,no,Yes
+21,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+36,m,1,0,1,1,0,1,1,1,0,White European,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+33,m,0,0,0,0,1,1,1,1,1,White European,yes,no,Yes
+33,m,1,1,1,1,1,1,1,1,1,asian,yes,no,Yes
+36,m,1,1,0,0,1,1,1,0,0,White European,no,no,Yes
+36,m,1,1,1,0,1,0,0,1,0,south asian,yes,yes,Yes
+36,m,0,0,0,0,1,1,1,1,1,White European,no,no,Yes
+32,f,1,0,0,0,1,1,1,1,0,asian,yes,no,Yes
+26,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,asian,no,no,No
+26,m,0,0,1,0,1,1,1,1,0,asian,no,no,Yes
+26,m,0,0,1,0,1,0,1,1,1,asian,no,no,Yes
+14,m,0,0,1,1,1,1,1,1,1,White European,yes,no,Yes
+16,m,0,1,0,1,0,1,1,1,1,middle eastern,yes,yes,Yes
+28,m,1,1,0,1,0,0,0,0,1,White European,yes,no,Yes
+24,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+21,m,0,0,0,0,0,0,0,0,0,asian,no,yes,No
+30,m,0,1,0,0,1,1,1,1,0,asian,no,no,Yes
+12,f,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+32,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+31,m,1,1,0,0,1,0,1,0,0,White European,yes,no,Yes
+23,m,1,1,0,0,0,1,1,1,0,White European,yes,no,Yes
+29,f,1,0,0,1,0,1,0,0,0,middle eastern,no,no,No
+12,m,0,1,1,1,1,1,0,1,0,black,yes,no,Yes
+13,f,0,0,0,0,0,0,0,0,1,Hispanic,no,no,No
+23,m,1,0,1,1,1,0,1,0,0,asian,no,no,Yes
+36,m,0,0,1,1,1,1,1,1,0,asian,no,no,Yes
+36,f,1,1,1,1,1,0,0,0,1,White European,yes,no,Yes
+26,m,0,1,1,1,1,0,1,1,0,asian,no,no,Yes
+36,f,1,0,0,0,0,1,1,0,1,White European,yes,no,Yes
+36,m,0,1,1,1,0,0,0,0,0,asian,no,no,Yes
+36,m,0,1,0,1,0,0,0,0,0,asian,no,no,No
+36,m,0,0,0,1,0,0,0,0,0,asian,no,no,No
+36,m,0,0,0,1,0,0,0,0,0,asian,no,no,No
+33,m,1,1,1,1,1,1,1,1,1,White European,no,yes,Yes
+36,m,1,0,1,1,1,1,1,1,1,Latino,no,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+36,f,1,1,0,0,1,1,0,1,1,White European,no,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+12,m,1,1,1,1,1,0,1,1,1,asian,no,no,Yes
+36,m,0,1,0,0,1,1,1,1,0,asian,no,no,Yes
+36,m,0,0,0,0,1,1,1,1,1,asian,no,no,Yes
+36,m,1,1,0,0,1,0,1,0,0,black,yes,no,Yes
+36,m,1,1,0,0,1,0,1,1,0,south asian,no,no,Yes
+36,m,0,1,0,0,0,1,1,1,0,asian,yes,no,Yes
+13,f,0,0,0,0,0,0,0,0,1,middle eastern,yes,no,No
+13,f,0,0,0,0,0,0,0,0,1,middle eastern,yes,no,No
+13,f,0,0,0,0,0,0,0,0,1,middle eastern,yes,no,No
+36,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+34,m,1,0,1,1,1,1,0,0,0,asian,no,no,Yes
+36,m,0,0,1,1,0,0,0,0,0,asian,no,no,No
+24,m,1,1,1,1,1,1,1,0,0,black,yes,yes,Yes
+14,m,1,1,0,0,1,1,1,1,1,asian,no,no,Yes
+14,m,1,1,0,1,1,1,1,1,0,asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+19,f,0,0,0,0,0,0,0,0,0,asian,no,yes,No
+34,m,0,0,0,1,1,1,1,0,0,black,yes,no,Yes
+36,m,1,1,1,0,1,1,1,1,0,asian,no,no,Yes
+32,f,1,0,1,1,1,0,0,1,0,Hispanic,no,yes,Yes
+36,m,1,1,0,0,1,1,1,0,1,asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,0,1,Latino,yes,no,Yes
+36,m,0,0,1,1,0,0,0,0,0,asian,no,no,No
+36,m,1,1,1,1,1,1,0,1,1,asian,no,no,Yes
+36,m,1,1,1,1,1,1,0,1,1,asian,no,no,Yes
+36,f,1,1,0,0,0,1,1,1,1,asian,yes,no,Yes
+27,f,1,1,0,1,0,1,1,0,1,south asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,south asian,no,no,Yes
+17,f,1,1,1,1,0,1,1,1,0,White European,no,no,Yes
+35,m,0,0,1,1,1,0,1,1,0,middle eastern,yes,no,Yes
+30,m,0,0,1,1,1,1,0,1,0,asian,no,no,Yes
+33,m,0,0,0,0,0,1,0,0,1,asian,no,no,No
+30,m,0,0,0,1,1,0,1,0,1,asian,no,no,Yes
+36,f,1,1,1,1,0,1,1,0,1,middle eastern,no,no,Yes
+30,m,1,0,0,1,1,1,1,1,0,asian,no,no,Yes
+30,m,0,0,0,1,0,0,1,1,1,asian,no,no,Yes
+30,f,1,0,0,0,0,0,1,0,1,south asian,no,no,No
+30,m,1,0,0,0,0,1,1,0,1,Hispanic,no,no,Yes
+24,m,1,1,1,1,0,1,1,1,0,black,yes,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,White European,no,no,No
+36,m,0,0,0,0,0,1,0,0,0,White European,no,no,No
+28,f,0,0,0,0,0,1,1,0,1,middle eastern,no,no,No
+28,f,0,0,0,1,0,1,1,0,1,middle eastern,no,no,Yes
+26,m,1,1,0,0,1,1,0,1,1,White European,yes,yes,Yes
+36,m,0,0,1,1,0,0,0,0,1,asian,no,no,Yes
+36,m,0,0,0,0,1,0,1,0,1,asian,yes,no,No
+25,m,1,0,0,0,0,1,0,0,0,White European,no,no,No
+32,m,1,1,1,1,1,0,1,1,1,asian,no,no,Yes
+36,m,1,1,0,0,0,0,1,0,1,asian,no,no,Yes
+36,m,1,1,0,1,1,1,1,0,1,asian,no,no,Yes
+36,m,0,0,0,0,0,1,1,0,1,Latino,no,no,Yes
+36,m,1,1,0,1,1,1,1,1,1,White European,no,yes,Yes
+36,f,0,0,0,0,0,0,0,0,0,White European,no,yes,No
+20,m,0,1,1,0,0,1,0,1,1,black,no,yes,Yes
+26,m,1,0,0,0,1,1,0,0,1,White European,no,no,Yes
+32,m,0,0,0,0,1,1,1,0,1,White European,yes,no,Yes
+24,f,1,0,0,1,1,1,1,1,1,south asian,no,no,Yes
+35,m,1,1,1,1,1,1,1,0,1,White European,no,yes,Yes
+13,m,0,1,0,0,0,0,0,0,1,middle eastern,no,no,No
+24,f,1,1,0,1,1,1,1,1,0,south asian,no,no,Yes
+24,f,1,1,1,1,1,1,0,1,1,south asian,no,no,Yes
+36,m,0,0,1,1,1,1,1,1,0,asian,no,no,Yes
+36,m,0,0,1,1,1,1,1,1,0,asian,no,no,Yes
+30,m,0,0,0,0,0,0,0,0,0,White European,no,no,No
+36,m,1,0,1,0,1,1,0,1,0,asian,no,no,Yes
+33,m,0,0,0,1,0,0,1,0,1,White European,yes,no,Yes
+36,m,1,1,1,1,1,1,1,1,0,south asian,no,no,Yes
+27,m,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+29,m,0,0,0,0,1,1,1,0,0,Others,no,no,Yes
+36,m,1,1,1,0,0,1,1,0,1,White European,no,no,Yes
+33,m,0,1,0,0,0,0,0,0,1,asian,no,no,No
+33,m,1,1,0,0,0,0,0,0,1,asian,no,no,Yes
+27,m,0,0,0,0,0,0,0,0,1,White European,no,no,No
+12,m,0,1,1,1,1,1,1,1,1,asian,no,yes,Yes
+30,f,1,0,0,0,1,1,1,0,0,asian,no,no,Yes
+34,f,0,0,0,0,0,0,1,1,0,asian,no,no,No
+36,m,1,1,0,0,1,1,1,1,1,Others,yes,no,Yes
+36,m,1,0,0,1,1,1,0,1,1,asian,no,no,Yes
+30,m,0,0,0,1,0,1,1,1,0,asian,no,no,Yes
+36,m,0,0,1,0,1,0,0,0,0,asian,no,no,No
+36,m,0,0,0,1,1,0,0,0,0,asian,no,no,No
+15,m,1,1,0,1,0,0,1,1,1,White European,no,no,Yes
+18,f,1,1,1,1,0,1,1,1,0,White European,no,no,Yes
+36,m,1,0,0,0,0,1,1,0,1,asian,no,no,Yes
+12,m,1,0,0,0,0,0,1,1,1,asian,no,no,Yes
+26,m,0,0,1,1,0,0,1,1,0,south asian,yes,no,Yes
+12,m,0,0,0,0,0,0,1,0,1,south asian,yes,no,No
+36,m,1,1,0,1,1,1,1,1,1,White European,no,no,Yes
+35,f,0,1,0,0,0,0,1,0,0,asian,yes,no,No
+36,m,1,1,1,1,0,1,1,1,1,middle eastern,no,no,Yes
+36,m,1,1,1,1,0,1,0,1,1,White European,no,no,Yes
+36,f,1,0,0,0,0,0,1,1,1,asian,no,no,Yes
+36,m,1,0,0,0,0,0,1,0,1,asian,no,no,No
+30,m,1,1,0,0,0,1,0,1,0,south asian,yes,no,Yes
+25,m,0,0,1,1,0,0,1,0,1,asian,no,no,Yes
+14,f,1,1,0,1,0,1,1,0,1,White European,no,no,Yes
+14,f,1,1,0,1,0,1,1,1,1,White European,no,no,Yes
+26,f,1,1,0,1,0,1,1,1,1,White European,no,no,Yes
+36,f,1,1,0,0,1,1,1,1,1,Others,yes,no,Yes
+35,f,1,0,0,0,1,0,1,1,1,asian,no,yes,Yes
+28,m,1,1,0,1,1,0,1,0,0,middle eastern,no,yes,Yes
+28,m,1,1,0,1,1,1,1,0,0,middle eastern,no,yes,Yes
+36,m,1,0,0,0,1,0,1,0,0,White European,no,no,No
+36,m,0,0,0,0,0,0,0,0,0,middle eastern,no,yes,No
+12,m,1,1,1,1,1,1,1,1,1,Pacifica,no,no,Yes
+36,m,1,1,0,0,1,1,1,0,1,White European,yes,no,Yes
+19,m,1,0,1,1,1,1,0,1,0,asian,no,no,Yes
+24,f,0,0,1,1,1,1,1,1,1,White European,no,no,Yes
+30,f,1,0,0,0,1,1,1,0,0,asian,yes,no,Yes
+32,m,1,1,0,0,1,1,1,1,1,asian,yes,yes,Yes
+35,m,1,0,0,1,1,1,1,1,1,asian,no,no,Yes
+35,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+29,m,1,0,1,1,1,1,0,1,1,middle eastern,no,no,Yes
+36,m,1,0,1,0,0,1,0,0,0,asian,no,yes,Yes
+36,m,1,0,0,0,0,1,0,0,0,asian,no,yes,No
+36,m,1,0,0,0,0,1,0,0,0,asian,no,yes,No
+15,f,0,0,0,1,0,0,1,1,1,middle eastern,yes,no,Yes
+15,f,0,0,0,0,0,0,0,1,0,middle eastern,yes,no,No
+36,m,0,1,0,0,0,0,1,0,0,middle eastern,no,yes,No
+19,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+24,m,0,0,1,0,0,1,1,1,1,Hispanic,no,yes,Yes
+36,m,1,1,0,1,1,1,1,0,1,Hispanic,no,yes,Yes
+13,m,0,0,1,1,1,0,1,1,1,White European,yes,yes,Yes
+25,m,0,0,0,0,0,0,1,0,1,asian,no,no,No
+13,m,1,1,1,1,1,1,1,1,1,White European,yes,yes,Yes
+36,m,1,1,0,1,1,0,1,0,1,White European,no,no,Yes
+36,m,1,1,0,1,0,0,1,0,0,White European,no,no,Yes
+36,f,1,1,1,1,0,1,1,1,1,White European,yes,no,Yes
+36,m,1,0,0,0,0,0,0,0,0,asian,no,yes,No
+36,m,1,0,1,0,0,1,0,0,0,asian,no,yes,No
+36,m,1,0,1,1,0,0,0,0,0,asian,no,yes,No
+17,m,0,0,1,1,0,1,0,1,0,asian,no,no,Yes
+17,m,0,0,1,1,0,0,0,0,0,asian,no,no,No
+22,f,1,0,1,1,1,1,1,1,1,White European,no,no,Yes
+20,m,0,0,1,1,1,0,1,0,0,White European,yes,no,Yes
+36,m,1,1,0,0,0,1,0,0,1,White European,yes,no,Yes
+15,f,0,0,0,0,0,0,0,0,0,middle eastern,yes,no,No
+36,f,1,1,1,1,1,1,1,1,0,south asian,yes,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+30,f,1,0,0,0,1,1,1,1,1,asian,yes,no,Yes
+30,f,1,0,0,0,0,1,1,1,1,asian,no,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+26,m,1,1,0,1,0,1,1,1,0,Hispanic,no,yes,Yes
+28,m,1,1,1,1,1,1,0,1,1,Pacifica,no,no,Yes
+36,f,1,1,1,1,1,1,1,1,1,Others,no,no,Yes
+36,m,1,0,0,0,1,1,1,1,0,Hispanic,no,no,Yes
+12,f,0,0,0,0,0,1,0,0,1,Hispanic,no,no,No
+28,m,1,1,1,1,1,1,1,1,1,black,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,black,no,no,Yes
+28,m,1,0,0,1,1,0,1,1,1,White European,yes,no,Yes
+28,m,0,0,0,0,0,0,1,0,0,White European,yes,no,No
+24,f,0,1,1,1,1,1,0,1,0,asian,yes,no,Yes
+34,m,1,1,1,1,1,1,1,1,1,Native Indian,yes,no,Yes
+12,f,0,0,0,1,0,1,1,0,0,White European,no,no,No
+32,m,1,1,1,1,1,0,1,1,0,black,no,no,Yes
+29,m,1,0,0,1,1,1,0,0,1,White European,yes,no,Yes
+27,m,1,0,0,0,1,1,1,1,0,White European,yes,yes,Yes
+25,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+36,m,1,1,0,0,1,0,0,0,1,White European,yes,no,Yes
+12,m,0,1,1,1,1,1,1,1,1,White European,no,yes,Yes
+36,m,1,1,0,1,1,1,0,1,0,White European,no,no,Yes
+36,m,1,0,1,0,1,0,0,0,0,White European,no,no,No
+36,m,0,1,1,0,0,0,0,0,1,south asian,no,no,Yes
+36,m,0,1,0,1,0,1,0,1,0,asian,no,no,Yes
+36,m,0,1,0,1,0,1,0,1,0,asian,no,no,Yes
+35,m,0,0,0,0,1,0,0,0,1,asian,no,no,No
+30,f,0,0,0,0,1,1,1,0,1,asian,no,no,Yes
+35,m,0,0,0,0,1,1,1,1,1,asian,no,no,Yes
+31,f,1,1,1,1,0,1,1,1,1,White European,no,no,Yes
+12,f,1,0,0,0,0,0,0,0,1,south asian,no,no,No
+36,m,1,0,0,0,1,1,1,0,0,asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,black,no,no,Yes
+36,m,1,0,1,0,0,0,0,0,0,asian,no,yes,No
+36,m,1,0,1,0,0,0,0,0,0,asian,no,yes,No
+36,f,1,1,0,0,0,1,1,0,1,White European,no,no,Yes
+26,f,1,1,1,1,1,1,1,1,1,Latino,no,no,Yes
+22,m,1,1,1,0,1,1,1,0,1,asian,no,no,Yes
+24,m,1,1,0,0,0,0,1,0,1,asian,yes,no,Yes
+19,m,0,0,1,1,1,0,0,1,0,middle eastern,no,no,Yes
+24,m,1,1,1,1,0,0,1,1,1,black,yes,no,Yes
+21,m,1,0,1,1,1,1,1,1,1,White European,yes,yes,Yes
+20,f,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+30,m,0,0,0,1,1,1,0,1,0,middle eastern,no,no,Yes
+13,f,0,0,0,0,1,1,1,1,1,asian,no,no,Yes
+31,f,1,1,1,0,1,1,1,1,0,asian,no,no,Yes
+31,f,1,1,1,0,1,1,1,0,0,asian,no,no,Yes
+17,m,1,1,0,1,1,1,1,1,0,asian,no,no,Yes
+12,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+12,f,1,1,1,1,1,0,1,1,1,middle eastern,no,no,Yes
+13,f,0,0,0,0,0,1,0,0,1,middle eastern,yes,no,No
+13,m,1,1,1,1,1,1,1,1,0,Hispanic,yes,no,Yes
+13,m,1,1,1,1,1,1,1,1,0,Hispanic,yes,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,Hispanic,no,no,No
+36,m,1,0,0,0,0,0,0,0,1,Hispanic,no,no,No
+34,m,1,1,0,1,1,1,0,0,0,Others,no,no,Yes
+34,m,1,1,0,1,1,1,1,0,1,Others,no,no,Yes
+34,f,0,0,0,0,0,1,0,0,0,White European,no,yes,No
+36,m,1,1,0,0,0,0,1,0,1,Hispanic,no,no,Yes
+25,m,1,1,0,0,1,0,1,0,1,middle eastern,yes,no,Yes
+25,m,1,1,0,0,0,0,1,0,1,middle eastern,no,no,Yes
+24,f,1,1,1,1,1,1,1,1,1,black,no,no,Yes
+36,m,1,1,0,1,0,1,1,0,1,White European,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,1,White European,no,no,No
+35,m,0,0,0,1,1,1,1,1,1,asian,no,yes,Yes
+35,m,0,0,0,0,1,1,1,1,1,asian,yes,no,Yes
+19,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+12,f,0,1,1,1,0,0,1,1,0,middle eastern,yes,no,Yes
+36,m,1,1,0,0,0,1,0,0,1,White European,no,yes,Yes
+12,f,0,0,1,0,0,1,0,0,1,south asian,no,no,No
+36,m,1,0,0,0,1,1,1,1,1,asian,no,no,Yes
+36,m,1,1,0,1,1,1,1,0,1,White European,yes,yes,Yes
+36,m,0,1,0,1,1,0,1,0,1,White European,yes,yes,Yes
+33,m,1,0,1,1,1,1,0,1,1,White European,yes,no,Yes
+22,m,1,1,0,1,0,0,1,1,1,White European,no,yes,Yes
+22,m,1,1,0,1,0,1,1,1,1,White European,no,no,Yes
+36,f,0,0,0,0,0,1,1,0,0,White European,no,no,No
+31,m,1,1,1,1,1,1,1,1,1,White European,yes,yes,Yes
+29,f,1,0,1,1,0,1,1,1,1,White European,no,no,Yes
+36,m,1,0,0,0,0,0,1,1,1,asian,no,no,Yes
+36,m,0,0,0,1,1,1,1,1,1,asian,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,black,no,no,No
+36,f,1,0,0,0,0,0,0,0,0,black,no,no,No
+36,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+23,m,1,1,1,0,0,1,1,1,1,black,yes,no,Yes
+36,m,1,1,0,0,1,0,0,0,1,White European,yes,no,Yes
+28,f,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+35,f,1,1,0,1,0,1,1,1,1,asian,no,no,Yes
+36,m,1,0,0,0,0,0,0,0,1,Hispanic,no,no,No
+16,m,1,0,0,0,0,0,1,0,1,White European,no,no,No
+36,m,0,1,0,0,0,0,0,0,0,White European,yes,no,No
+32,f,0,0,1,1,0,1,0,0,0,White European,yes,no,Yes
+36,f,0,1,1,1,1,0,1,0,1,White European,yes,yes,Yes
+35,m,0,0,0,0,1,1,0,1,1,asian,yes,no,Yes
+24,m,1,0,1,0,1,1,0,1,0,White European,no,no,Yes
+24,m,1,0,1,1,1,1,0,1,0,White European,no,no,Yes
+24,m,1,0,1,0,1,1,0,1,0,White European,no,no,Yes
+30,f,1,1,1,1,0,1,1,1,1,White European,no,no,Yes
+26,m,0,0,1,1,0,1,1,1,1,White European,no,no,Yes
+12,m,1,1,1,1,1,1,1,1,1,Others,yes,yes,Yes
+28,m,0,0,0,1,0,0,1,0,1,middle eastern,yes,no,No
+31,m,0,0,0,0,0,0,0,0,1,Pacifica,no,no,No
+36,m,0,0,1,1,1,1,1,1,1,White European,no,no,Yes
+23,m,1,0,0,0,1,1,1,0,1,asian,yes,no,Yes
+36,m,1,0,0,0,1,1,1,1,0,asian,yes,no,Yes
+34,f,0,0,1,1,1,1,1,1,1,White European,no,yes,Yes
+36,m,0,0,1,1,0,1,0,1,1,Hispanic,no,no,Yes
+36,m,1,1,0,0,1,1,1,0,1,Others,no,no,Yes
+36,m,1,0,0,1,1,1,1,1,1,White European,yes,no,Yes
+36,m,1,1,0,0,0,1,0,1,1,asian,no,no,Yes
+36,m,1,0,0,0,0,1,0,1,1,asian,no,no,Yes
+36,f,0,0,0,0,0,0,1,0,1,Latino,no,no,No
+36,m,0,1,1,1,1,1,1,1,0,black,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,black,no,no,No
+36,m,0,0,0,0,0,1,0,0,1,White European,yes,yes,No
+36,m,1,1,0,1,1,1,1,1,1,White European,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,Hispanic,no,no,Yes
+26,m,1,0,1,0,1,1,1,0,1,asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,0,White European,no,yes,Yes
+36,m,0,0,0,0,1,0,1,0,0,Hispanic,no,no,No
+36,m,0,0,0,1,0,0,1,0,0,Hispanic,no,no,No
+27,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+36,m,0,0,0,1,0,0,1,1,0,asian,no,no,No
+36,m,0,1,0,1,0,0,0,1,1,black,yes,yes,Yes
+36,m,0,1,0,1,0,0,0,1,1,black,yes,yes,Yes
+36,m,1,1,1,1,1,1,1,1,1,black,no,yes,Yes
+30,m,0,1,0,0,1,1,1,1,0,White European,no,no,Yes
+26,m,0,1,0,0,0,0,1,0,1,mixed,no,no,Yes
+25,f,1,1,0,1,1,1,1,0,1,Pacifica,yes,no,Yes
+20,f,1,1,0,1,1,1,0,1,0,south asian,no,no,Yes
+20,m,0,0,1,1,1,0,1,0,0,asian,yes,no,Yes
+20,f,0,0,0,0,1,1,1,1,0,asian,no,no,Yes
+28,m,1,1,0,1,1,1,1,1,1,asian,no,no,Yes
+28,m,1,0,0,1,1,1,1,1,1,asian,no,no,Yes
+28,m,1,1,0,1,1,1,1,1,0,asian,no,no,Yes
+28,m,1,1,0,1,1,1,1,1,1,asian,no,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+36,m,1,1,1,1,0,1,1,1,1,White European,yes,no,Yes
+29,f,1,1,1,1,1,1,1,1,0,Latino,no,no,Yes
+30,m,1,1,1,1,1,1,1,1,1,Latino,no,no,Yes
+27,m,1,1,0,0,1,1,1,1,1,White European,no,no,Yes
+22,f,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+22,f,1,0,0,0,0,0,1,0,1,White European,yes,no,No
+22,m,1,0,0,0,0,1,1,0,1,Hispanic,yes,no,Yes
+36,f,0,0,0,0,0,0,1,0,1,asian,no,no,No
+36,f,0,0,0,1,0,0,1,0,1,asian,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+36,m,0,0,0,1,1,1,1,0,0,asian,no,no,Yes
+34,m,0,0,0,0,1,1,1,1,1,Others,yes,no,Yes
+24,m,1,0,0,1,1,0,0,0,1,asian,yes,no,Yes
+25,m,1,1,1,1,0,1,1,0,1,White European,yes,yes,Yes
+25,m,1,0,1,0,1,1,1,1,0,White European,no,yes,Yes
+30,f,1,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+36,f,0,0,0,0,0,1,0,0,0,asian,no,no,No
+32,m,0,0,0,0,1,0,0,0,1,black,yes,no,No
+33,m,0,0,1,1,0,1,1,1,0,White European,yes,no,Yes
+36,m,0,0,0,0,1,0,0,1,1,middle eastern,no,no,Yes
+12,m,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+24,f,1,0,1,1,0,1,1,1,0,asian,no,no,Yes
+25,f,0,0,0,1,0,1,1,0,0,asian,no,no,No
+24,f,0,0,1,1,1,1,0,1,0,asian,no,no,Yes
+24,f,0,0,1,1,1,1,0,1,0,asian,no,no,Yes
+29,m,0,1,0,0,1,1,1,0,1,White European,yes,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,south asian,no,no,Yes
+24,m,0,0,1,1,0,0,0,0,1,asian,no,no,No
+24,m,0,0,1,1,0,0,0,0,1,asian,no,no,Yes
+24,m,0,0,1,1,0,1,0,0,1,asian,no,no,Yes
+16,f,1,0,1,1,1,0,1,1,0,asian,no,no,Yes
+12,m,0,0,0,0,0,0,0,0,1,White European,yes,yes,No
+22,f,1,0,1,1,1,1,1,0,0,White European,no,yes,Yes
+22,f,0,0,1,1,1,1,1,0,1,White European,no,yes,Yes
+32,f,1,0,0,0,1,1,1,0,1,asian,no,no,Yes
+18,m,1,1,1,1,1,1,1,1,0,middle eastern,yes,no,Yes
+28,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+34,m,0,0,1,1,0,1,1,1,1,White European,yes,no,Yes
+24,f,0,0,1,1,1,1,1,1,1,asian,no,no,Yes
+22,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,1,asian,no,no,No
+36,f,1,0,0,1,1,1,1,0,0,White European,no,no,Yes
+14,m,1,0,0,0,1,0,1,1,0,asian,yes,no,Yes
+30,m,0,0,0,0,0,1,0,0,1,asian,no,no,No
+36,f,1,1,0,0,1,1,1,1,1,Others,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,Others,yes,no,No
+24,m,1,1,1,1,1,0,1,0,0,Others,no,no,Yes
+14,m,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+14,m,1,1,0,1,1,1,1,1,0,White European,no,no,Yes
+26,f,1,1,0,0,0,0,1,0,1,middle eastern,no,no,Yes
+36,m,1,0,0,1,1,0,1,1,0,south asian,no,no,Yes
+24,m,1,1,1,1,1,1,1,0,0,Others,no,no,Yes
+33,f,1,0,1,1,1,1,1,1,1,asian,no,no,Yes
+33,f,1,0,1,0,1,1,1,1,1,asian,no,no,Yes
+24,m,0,0,0,0,0,0,0,0,0,asian,yes,no,No
+32,f,1,1,0,1,0,1,1,0,1,White European,no,no,Yes
+13,f,0,0,0,0,0,0,0,0,0,White European,no,yes,No
+31,f,0,0,1,1,1,1,1,1,0,White European,no,no,Yes
+17,m,1,0,1,1,0,1,0,0,0,asian,yes,no,Yes
+19,f,1,1,1,1,1,0,1,1,1,White European,yes,no,Yes
+19,f,1,1,1,1,1,1,1,1,0,White European,yes,no,Yes
+29,m,0,1,0,0,1,1,0,0,1,White European,no,no,Yes
+36,m,1,0,0,0,1,1,1,1,1,White European,no,no,Yes
+14,m,1,1,0,1,1,1,1,1,1,White European,yes,no,Yes
+16,m,1,0,1,1,1,0,1,1,1,black,no,no,Yes
+14,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+30,m,0,0,0,0,0,0,1,0,0,White European,no,no,No
+24,m,1,0,1,0,1,0,1,0,1,White European,no,no,Yes
+36,m,1,1,1,1,1,1,1,1,0,asian,yes,yes,Yes
+32,m,1,1,0,0,1,1,1,1,0,White European,no,no,Yes
+21,f,0,0,0,0,0,1,1,0,0,White European,no,no,No
+36,m,0,0,0,0,0,0,1,1,1,south asian,no,no,No
+27,m,1,1,1,1,1,1,1,0,1,Others,yes,yes,Yes
+33,m,0,0,1,1,1,1,1,1,1,White European,no,no,Yes
+36,m,0,1,0,0,0,0,0,0,1,White European,no,no,No
+29,m,0,1,0,0,1,0,0,0,1,White European,no,no,No
+23,m,1,0,0,1,0,1,1,0,1,White European,yes,no,Yes
+34,m,1,0,1,1,1,1,1,0,1,White European,yes,no,Yes
+16,f,1,1,0,0,0,1,1,1,1,White European,yes,no,Yes
+36,f,0,0,1,0,0,0,0,0,0,White European,no,yes,No
+26,f,0,0,0,0,0,0,0,1,1,White European,yes,no,No
+35,f,0,1,1,0,0,0,0,0,1,black,yes,no,No
+36,m,1,0,1,1,1,1,1,1,0,White European,yes,yes,Yes
+12,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+36,f,0,0,0,0,0,1,0,0,0,middle eastern,no,no,No
+24,m,1,0,0,1,0,0,1,1,1,White European,yes,yes,Yes
+35,m,1,1,0,1,0,1,1,1,0,middle eastern,no,no,Yes
+15,m,1,0,1,1,1,0,1,1,1,White European,yes,no,Yes
+15,m,0,0,1,1,1,0,1,1,0,White European,yes,no,Yes
+27,m,1,0,0,1,0,0,1,0,0,south asian,no,no,No
+12,f,1,1,1,1,1,0,1,1,1,White European,no,no,Yes
+22,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+36,m,1,0,0,0,0,1,1,1,0,Others,no,yes,Yes
+36,m,0,0,0,0,0,1,0,0,0,White European,yes,no,No
+15,m,0,0,0,0,0,0,0,0,1,asian,no,no,No
+30,m,0,1,0,1,0,1,1,0,0,asian,yes,no,Yes
+36,m,1,1,0,1,1,1,1,1,1,White European,no,no,Yes
+17,m,1,1,0,0,0,0,0,0,0,asian,no,no,No
+17,m,1,1,0,1,0,0,0,0,0,middle eastern,no,no,No
+17,m,1,1,0,0,0,0,0,0,0,middle eastern,no,no,No
+29,m,1,1,0,0,1,1,0,1,1,White European,no,no,Yes
+26,m,1,1,1,1,1,1,1,1,1,Pacifica,no,no,Yes
+23,m,1,1,0,0,0,1,1,0,1,White European,yes,yes,Yes
+23,m,0,0,0,0,0,0,1,0,1,White European,yes,yes,No
+23,m,0,0,0,0,0,0,0,0,1,White European,yes,no,No
+36,f,0,0,0,0,0,0,0,0,1,White European,no,no,No
+15,m,1,1,1,1,1,1,1,1,1,south asian,no,no,Yes
+25,m,1,1,0,1,1,1,1,1,0,White European,no,no,Yes
+33,f,0,0,0,1,1,1,1,1,1,asian,no,no,Yes
+12,f,0,0,0,0,1,0,0,1,1,White European,no,no,No
+12,f,0,0,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+28,m,1,1,0,1,0,1,1,0,1,White European,no,no,Yes
+36,m,1,1,0,1,1,0,1,1,0,middle eastern,no,no,Yes
+31,m,0,0,0,0,0,1,0,0,1,asian,no,yes,No
+30,m,1,1,1,1,1,1,0,1,1,asian,no,no,Yes
+30,m,1,0,0,0,1,1,0,1,1,asian,no,no,Yes
+36,m,1,0,0,0,0,0,0,0,1,Hispanic,no,no,No
+36,f,1,1,1,1,1,1,1,1,0,middle eastern,yes,no,Yes
+30,m,0,0,0,0,0,0,0,1,1,asian,no,no,No
+29,m,1,1,1,0,1,1,1,0,1,Pacifica,no,yes,Yes
+22,f,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+34,f,0,0,1,0,1,1,1,0,1,asian,no,no,Yes
+36,f,0,1,1,1,1,1,1,0,1,White European,no,no,Yes
+31,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+36,f,1,1,1,1,0,1,1,0,1,White European,no,no,Yes
+22,m,0,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+36,m,1,0,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+12,m,1,1,0,1,1,1,1,1,1,Latino,yes,no,Yes
+26,m,1,0,0,0,1,1,1,1,0,asian,no,no,Yes
+36,f,0,0,0,0,1,1,1,1,0,Latino,no,no,Yes
+36,m,1,0,1,1,1,1,1,1,0,asian,yes,no,Yes
+28,m,1,1,0,0,1,1,1,1,0,south asian,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,middle eastern,yes,no,No
+36,f,1,1,1,1,1,1,0,0,1,White European,no,no,Yes
+12,m,1,1,1,1,1,1,1,1,0,White European,no,yes,Yes
+36,m,1,0,0,0,0,0,1,0,0,White European,no,no,No
+31,m,0,0,1,1,1,1,1,0,0,White European,no,no,Yes
+31,m,0,0,1,1,1,1,1,0,0,White European,yes,no,Yes
+22,m,1,1,1,1,1,0,1,0,1,south asian,no,no,Yes
+36,m,0,0,0,1,0,0,1,0,1,south asian,no,no,No
+36,m,1,1,0,0,1,0,1,1,1,White European,no,no,Yes
+15,f,1,1,1,1,1,1,1,1,1,middle eastern,no,yes,Yes
+34,f,0,0,1,0,1,1,1,0,1,asian,no,no,Yes
+14,m,0,0,1,1,1,1,1,1,0,White European,yes,no,Yes
+27,m,1,0,1,0,0,0,1,1,0,asian,no,no,Yes
+28,m,1,1,0,1,1,1,1,1,1,White European,no,no,Yes
+14,m,0,0,1,1,1,1,1,1,0,White European,yes,no,Yes
+15,f,0,0,0,0,0,0,1,0,0,asian,no,yes,No
+31,m,0,0,1,1,1,0,1,0,0,White European,yes,no,Yes
+17,f,0,0,0,0,0,0,0,0,0,asian,no,yes,No
+28,m,1,1,1,1,1,1,1,1,0,Others,no,no,Yes
+36,f,1,1,0,1,1,1,1,1,0,asian,no,no,Yes
+26,f,1,0,0,0,0,1,1,0,1,Others,no,no,Yes
+15,m,1,0,1,1,1,1,1,1,0,White European,no,no,Yes
+12,m,0,1,1,1,0,1,1,1,0,Hispanic,no,no,Yes
+16,m,0,1,0,0,0,0,1,0,1,White European,yes,no,Yes
+28,m,1,0,1,1,1,1,1,1,1,White European,no,no,Yes
+34,f,0,0,1,0,1,1,1,0,1,asian,no,no,Yes
+24,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+22,m,1,1,1,1,0,1,1,0,1,middle eastern,yes,yes,Yes
+36,f,0,0,1,1,0,0,1,0,1,asian,yes,no,Yes
+29,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+36,m,0,0,0,0,0,0,1,0,1,White European,no,no,No
+22,m,0,0,0,0,0,0,1,0,1,White European,yes,yes,No
+14,m,0,0,1,1,1,1,1,1,0,White European,yes,no,Yes
+34,m,1,0,0,0,0,0,0,0,0,White European,yes,yes,No
+36,m,0,0,0,1,1,0,1,1,0,asian,no,no,Yes
+35,m,1,1,1,0,1,0,1,0,0,Others,no,no,Yes
+35,f,1,0,0,0,0,0,1,0,1,White European,yes,no,Yes
+31,f,1,0,0,0,0,1,1,0,1,White European,no,yes,Yes
+36,m,1,1,0,1,1,1,1,1,1,asian,yes,no,Yes
+36,m,1,0,0,0,0,1,1,0,0,asian,no,no,No
+15,m,1,1,1,1,1,1,1,1,1,mixed,no,no,Yes
+36,f,1,1,1,1,0,1,1,1,1,White European,no,no,Yes
+36,f,0,0,1,0,0,1,1,1,1,middle eastern,no,yes,Yes
+36,f,1,1,1,1,1,1,1,1,1,middle eastern,yes,no,Yes
+27,m,1,0,0,0,0,0,1,0,1,White European,no,no,No
+36,m,0,0,0,0,1,0,1,1,1,Others,yes,no,Yes
+24,f,1,1,0,1,1,1,1,1,1,south asian,no,no,Yes
+24,f,1,1,0,1,1,1,1,0,0,south asian,no,no,Yes
+23,f,1,0,0,1,0,1,1,0,1,asian,no,no,Yes
+34,f,1,0,0,0,1,1,1,1,0,asian,no,no,Yes
+13,m,1,0,1,1,1,1,1,1,1,black,yes,yes,Yes
+36,f,0,0,0,0,0,0,0,0,0,black,no,yes,No
+36,m,1,1,0,0,1,1,1,1,1,White European,no,no,Yes
+36,m,1,1,0,0,1,1,1,1,1,White European,no,yes,Yes
+36,m,1,1,0,0,1,1,1,1,1,White European,no,yes,Yes
+16,m,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+24,f,1,1,1,1,0,1,1,1,1,White European,no,no,Yes
+36,m,0,0,0,0,0,0,1,0,1,White European,no,yes,No
+20,m,1,1,1,1,0,1,0,0,1,White European,yes,yes,Yes
+28,m,1,0,1,1,1,1,1,0,1,middle eastern,no,no,Yes
+29,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+25,m,0,0,0,0,0,0,0,0,0,asian,no,no,No
+24,f,0,0,0,0,0,0,1,1,0,middle eastern,no,no,No
+24,m,1,0,0,0,1,0,1,1,0,White European,no,no,Yes
+36,m,1,1,0,0,0,1,0,0,0,middle eastern,no,no,No
+19,m,1,1,1,1,1,1,1,1,0,middle eastern,no,no,Yes
+34,f,1,0,0,0,1,1,1,1,1,asian,no,no,Yes
+18,m,0,0,0,1,0,1,1,1,0,asian,no,yes,Yes
+36,m,0,0,1,1,0,0,0,1,0,White European,no,no,No
+24,f,0,0,0,0,0,1,1,1,0,middle eastern,no,no,No
+36,f,1,1,0,0,0,0,1,1,1,White European,no,yes,Yes
+30,f,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+36,m,0,0,0,0,0,0,0,0,1,White European,no,no,No
+25,f,1,0,0,0,0,0,1,0,0,asian,no,no,No
+14,m,0,0,0,0,0,0,1,0,1,middle eastern,no,no,No
+14,m,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+14,m,0,0,1,1,1,0,1,1,0,White European,yes,no,Yes
+35,m,0,0,1,1,1,0,0,0,0,asian,no,no,Yes
+35,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+19,f,1,1,1,1,1,1,1,1,0,Hispanic,no,no,Yes
+31,f,0,0,0,1,0,0,0,0,0,middle eastern,yes,no,No
+31,f,0,0,0,1,0,0,0,0,0,middle eastern,yes,no,No
+31,f,0,0,0,1,0,0,0,0,0,middle eastern,yes,no,No
+29,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+36,m,1,0,0,0,1,1,1,1,0,White European,no,no,Yes
+28,m,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+26,m,1,0,1,1,0,1,1,0,0,White European,no,no,Yes
+28,m,1,1,0,0,0,0,1,0,0,middle eastern,no,no,Yes
+32,m,0,1,0,0,1,0,0,0,0,middle eastern,no,no,No
+36,m,1,1,1,1,1,1,1,1,1,Latino,no,no,Yes
+36,m,0,1,0,0,1,1,0,1,0,White European,no,no,Yes
+18,m,0,0,1,1,1,1,1,1,1,Hispanic,no,no,Yes
+21,m,0,0,0,0,0,0,1,0,1,middle eastern,yes,no,No
+21,m,0,0,0,0,0,0,1,0,1,middle eastern,yes,no,No
+21,m,1,0,0,0,0,1,1,0,1,middle eastern,yes,no,Yes
+32,m,1,1,1,1,1,1,1,1,1,Hispanic,no,no,Yes
+36,m,0,0,0,0,0,1,1,1,0,asian,no,no,Yes
+20,m,0,0,0,0,0,0,0,0,0,asian,yes,no,No
+27,m,1,1,1,0,1,0,1,1,1,asian,yes,no,Yes
+18,m,1,1,0,1,1,0,1,1,0,black,yes,yes,Yes
+24,m,0,0,0,1,1,1,0,0,0,asian,no,no,Yes
+36,f,0,1,0,0,0,1,0,0,0,White European,yes,no,No
+36,f,0,0,0,0,0,0,0,0,0,White European,yes,no,No
+36,m,1,1,0,0,1,1,1,0,0,asian,no,no,Yes
+22,f,0,0,1,1,1,1,1,1,0,Others,no,no,Yes
+30,m,1,1,1,1,1,1,1,1,1,White European,yes,yes,Yes
+19,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+16,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+26,f,1,1,0,1,1,1,1,1,1,middle eastern,no,no,Yes
+24,f,1,1,1,1,1,1,0,1,1,Hispanic,no,no,Yes
+30,f,0,0,1,0,1,1,1,1,1,Others,yes,no,Yes
+12,m,1,0,0,0,1,0,0,0,1,middle eastern,yes,no,No
+26,f,1,1,0,1,1,1,1,1,0,White European,no,no,Yes
+30,m,1,1,1,1,1,1,1,1,1,White European,yes,yes,Yes
+36,m,0,0,0,0,0,0,0,0,1,White European,no,no,No
+36,f,1,1,1,1,0,0,1,0,1,mixed,yes,no,Yes
+36,f,0,1,0,1,0,1,1,1,1,mixed,yes,no,Yes
+30,f,0,0,0,0,0,0,1,0,0,Latino,no,no,No
+21,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+36,m,1,1,0,0,0,1,1,1,1,White European,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,Others,no,no,No
+31,m,0,0,1,1,0,0,0,1,0,south asian,no,no,Yes
+30,f,0,0,1,1,1,1,1,1,1,Others,yes,no,Yes
+30,f,1,1,1,1,1,1,1,1,1,Others,no,no,Yes
+33,m,0,0,0,1,1,1,0,1,1,White European,no,no,Yes
+26,m,1,1,0,0,1,1,1,1,0,White European,no,yes,Yes
+12,f,1,0,0,0,0,0,0,0,1,middle eastern,no,no,No
+36,m,1,1,0,0,0,1,1,0,1,White European,yes,no,Yes
+36,m,1,1,0,0,0,0,1,0,0,Hispanic,no,no,No
+36,m,1,1,1,1,1,0,1,1,0,asian,no,no,Yes
+24,f,0,0,0,1,1,1,1,0,0,White European,no,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,Others,no,no,No
+24,m,1,1,1,1,1,1,1,1,1,south asian,no,no,Yes
+36,m,0,0,1,1,1,0,0,0,1,Others,no,no,Yes
+34,f,0,1,1,0,1,0,1,1,0,black,no,no,Yes
+34,f,0,1,1,0,1,0,0,0,0,black,yes,no,No
+34,f,0,1,1,0,1,0,0,0,0,black,no,no,No
+24,m,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+24,m,0,0,0,0,0,0,0,0,0,black,no,no,No
+29,m,0,0,0,1,1,1,0,0,1,asian,no,no,Yes
+20,m,1,1,1,1,1,1,1,1,1,middle eastern,no,yes,Yes
+30,m,0,0,0,0,1,1,1,0,1,Latino,yes,no,Yes
+26,f,0,0,0,0,0,0,0,0,0,south asian,no,no,No
+36,m,0,1,1,1,0,1,1,1,1,middle eastern,no,no,Yes
+30,m,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+27,f,1,1,1,1,0,1,1,1,1,White European,no,no,Yes
+23,m,1,0,1,1,1,1,1,1,1,Latino,no,no,Yes
+23,m,1,0,1,1,0,1,1,1,1,Latino,no,no,Yes
+36,f,0,0,1,1,1,0,1,1,0,south asian,no,no,Yes
+22,f,1,1,1,1,0,1,1,1,1,Pacifica,yes,no,Yes
+36,f,1,1,0,1,0,1,1,1,1,White European,no,no,Yes
+36,m,1,1,0,0,1,0,1,1,0,Hispanic,no,no,Yes
+26,m,0,0,0,1,0,1,1,1,1,black,no,no,Yes
+28,f,0,0,0,0,0,0,0,0,0,black,no,no,No
+21,m,1,1,1,1,1,1,1,1,1,asian,no,no,Yes
+25,m,1,1,0,0,0,0,1,1,1,White European,yes,no,Yes
+28,f,1,1,1,1,1,1,1,1,1,White European,yes,no,Yes
+13,f,1,1,1,0,0,0,1,1,0,Latino,no,no,Yes
+15,m,0,0,1,1,1,1,1,1,0,White European,yes,no,Yes
+23,m,1,1,0,0,0,1,1,0,1,White European,no,no,Yes
+24,m,0,0,0,0,0,0,0,1,0,asian,no,no,No
+24,m,0,0,1,1,0,0,0,1,1,asian,no,no,Yes
+36,m,1,0,1,1,1,1,1,1,1,Hispanic,no,yes,Yes
+12,m,0,0,0,0,0,0,1,0,1,asian,yes,no,No
+29,m,1,0,1,1,1,1,1,1,0,White European,yes,no,Yes
+36,m,0,1,1,1,1,1,1,1,0,middle eastern,yes,yes,Yes
+36,m,0,0,0,0,1,0,1,0,1,south asian,no,no,No
+27,m,0,0,0,0,0,0,0,0,1,asian,no,yes,No
+32,m,1,1,1,1,0,0,1,0,1,asian,no,no,Yes
+12,m,0,0,0,0,0,1,1,0,0,Latino,no,no,No
+36,m,1,0,0,1,0,1,1,1,0,White European,yes,no,Yes
+36,m,1,0,0,1,0,1,1,1,0,Others,yes,no,Yes
+36,m,1,1,0,0,1,1,1,1,1,asian,no,no,Yes
+12,m,1,0,1,1,0,0,0,1,0,White European,no,no,Yes
+12,m,0,0,1,1,1,0,0,0,0,White European,no,no,No
+12,m,1,0,0,1,0,0,0,1,0,White European,no,no,No
+12,m,0,0,1,1,1,0,0,1,0,White European,no,no,Yes
+12,m,0,0,1,1,1,0,0,0,0,White European,no,no,No
+20,m,0,0,0,0,0,1,1,0,1,south asian,no,no,No
+36,f,0,0,0,0,0,1,1,0,1,asian,no,no,No
+36,f,0,0,0,0,0,1,1,0,1,asian,no,no,No
+36,m,0,0,0,1,0,0,0,0,0,White European,yes,no,No
+32,m,1,1,0,1,1,1,1,1,1,asian,no,no,Yes
+35,f,0,0,0,0,1,1,0,0,1,asian,no,no,Yes
+19,m,0,0,1,0,0,0,0,0,1,middle eastern,no,no,No
+20,m,1,0,1,0,0,0,1,0,1,middle eastern,no,no,Yes
+20,m,1,0,1,0,0,0,0,0,1,middle eastern,no,no,No
+12,m,1,0,0,0,0,0,0,0,0,White European,no,no,No
+12,m,1,0,0,0,0,0,0,0,1,White European,no,no,No
+12,m,0,0,0,0,0,0,0,0,0,White European,no,no,No
+12,m,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+36,m,1,1,0,0,0,1,0,0,1,asian,no,no,Yes
+15,m,0,0,1,1,1,1,1,1,0,White European,yes,no,Yes
+36,m,1,1,0,0,1,0,1,1,1,White European,no,no,Yes
+36,m,0,0,0,0,1,1,0,1,1,Native Indian,no,no,Yes
+24,m,0,0,0,0,0,0,1,0,1,middle eastern,no,no,No
+36,f,0,0,0,0,1,0,1,0,1,White European,no,no,No
+27,m,1,1,1,1,1,1,1,0,1,black,no,yes,Yes
+27,m,1,1,1,1,1,1,1,0,1,black,no,yes,Yes
+36,m,1,1,0,0,1,0,0,1,0,south asian,no,no,Yes
+35,f,1,0,0,0,1,1,0,0,1,asian,no,no,Yes
+18,m,1,0,0,0,1,0,0,0,0,black,no,no,No
+36,f,1,1,1,1,1,1,1,1,0,White European,no,no,Yes
+22,f,1,1,1,1,0,0,0,0,0,Hispanic,no,no,Yes
+29,m,1,1,0,1,1,1,1,1,1,south asian,yes,no,Yes
+36,m,0,1,0,0,0,0,1,0,0,asian,no,no,No
+36,m,0,1,0,0,1,1,1,0,0,asian,no,no,Yes
+27,m,1,1,0,1,1,1,1,0,0,White European,no,yes,Yes
+26,f,0,0,1,1,1,0,1,1,0,White European,no,no,Yes
+26,m,1,1,0,1,0,1,1,1,1,middle eastern,yes,no,Yes
+36,m,0,0,0,0,1,0,0,0,1,south asian,yes,no,No
+16,m,1,0,1,1,1,1,1,1,0,White European,no,yes,Yes
+28,m,1,0,1,1,0,1,1,0,0,asian,no,no,Yes
+18,m,1,0,1,1,1,1,0,1,0,White European,no,no,Yes
+36,m,1,0,0,0,0,0,1,1,0,south asian,no,no,No
+35,f,0,0,0,0,1,1,0,0,1,asian,no,no,Yes
+30,m,1,0,0,0,0,0,1,0,1,middle eastern,no,no,No
+30,m,1,0,0,0,0,0,1,0,1,middle eastern,no,no,Yes
+33,m,1,1,0,0,0,1,0,0,1,middle eastern,no,no,Yes
+24,m,0,0,0,1,0,0,0,0,0,White European,no,no,No
+36,m,1,1,0,1,1,1,0,0,1,White European,yes,yes,Yes
+36,m,1,0,0,0,0,0,1,1,1,White European,no,yes,Yes
+24,m,1,1,1,0,0,0,1,0,0,black,no,no,Yes
+16,f,1,1,0,1,0,0,0,0,1,Latino,no,no,Yes
+24,m,0,0,0,0,0,1,1,0,1,White European,no,no,No
+30,m,1,0,1,1,1,1,0,1,0,White European,yes,no,Yes
+36,m,1,1,1,1,1,1,1,0,0,asian,no,no,Yes
+24,m,1,0,1,0,1,1,1,1,1,middle eastern,yes,no,Yes
+36,m,0,0,0,1,1,0,1,0,1,south asian,yes,no,Yes
+36,m,1,1,1,1,1,1,1,1,0,asian,no,no,Yes
+34,f,1,1,1,1,1,1,1,1,1,White European,no,no,Yes
+24,m,1,0,1,1,0,1,1,1,0,White European,no,no,Yes
+23,m,1,1,1,0,1,1,0,1,1,White European,no,no,Yes
+12,m,1,0,0,1,0,0,0,0,0,White European,no,no,No
+30,f,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+36,m,0,0,0,0,1,0,1,0,1,south asian,yes,no,Yes
+35,f,1,0,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+35,f,1,0,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+33,m,1,1,1,1,1,1,1,0,1,White European,no,no,Yes
+34,m,1,0,0,1,0,0,1,0,1,asian,yes,no,Yes
+24,f,1,1,1,1,1,1,1,1,1,Latino,no,no,Yes
+36,m,1,1,0,0,0,0,0,1,1,White European,yes,no,Yes
+36,m,0,0,0,0,0,0,0,0,0,middle eastern,no,no,No
+36,m,0,1,0,0,0,0,0,0,1,middle eastern,yes,no,No
+36,m,0,0,0,1,0,0,0,1,1,asian,no,no,No
+33,f,1,0,1,1,1,0,1,1,1,middle eastern,no,no,Yes
+23,f,0,1,1,1,0,1,0,0,0,Pacifica,yes,no,Yes
+36,m,0,0,0,0,0,1,0,0,1,Latino,no,no,No
+34,f,1,0,0,0,1,1,0,0,1,asian,no,no,Yes
+36,m,0,0,0,0,1,1,1,0,0,black,yes,no,Yes
+27,m,1,0,0,1,1,0,1,1,0,White European,no,no,Yes
+36,m,1,1,1,1,1,1,1,0,0,black,no,yes,Yes
+24,m,1,0,1,1,1,0,1,0,1,asian,no,no,Yes
+24,m,1,0,1,1,1,0,1,0,1,asian,no,no,Yes
+34,f,0,0,0,1,0,0,1,0,1,White European,no,yes,No
+32,m,1,1,1,1,1,1,1,1,0,south asian,yes,yes,Yes
+24,m,1,0,1,1,0,0,1,0,1,asian,no,no,Yes
+30,m,0,1,1,1,1,1,1,1,1,Latino,no,no,Yes
+36,m,0,1,0,0,1,1,0,1,0,White European,no,yes,Yes
+32,m,0,0,0,0,0,0,1,0,1,south asian,no,no,No
+30,m,1,1,1,1,1,1,1,1,0,middle eastern,no,no,Yes
+30,f,1,0,0,0,0,1,1,1,0,White European,no,no,Yes
+24,m,0,0,1,1,0,0,1,1,0,Latino,no,no,Yes
+36,m,0,1,0,0,1,0,1,0,1,Hispanic,no,no,Yes
+36,f,1,1,0,0,0,1,1,0,1,asian,no,no,Yes
+21,m,0,0,1,1,0,0,0,1,0,asian,no,no,No
+36,m,1,1,0,0,1,1,1,0,1,asian,no,no,Yes
+19,f,0,0,0,0,1,0,0,1,0,White European,yes,yes,No
+12,m,0,1,1,1,1,1,1,0,0,White European,no,no,Yes
+36,f,0,0,0,0,0,0,0,0,0,White European,no,yes,No
+36,m,1,1,0,0,0,0,0,0,1,White European,no,yes,Yes
+35,m,0,0,0,0,0,0,0,0,1,asian,yes,no,No
+23,m,0,0,0,0,0,0,1,0,1,asian,yes,no,No
+36,m,0,0,0,0,0,0,0,0,1,White European,no,no,No
+29,m,0,0,1,1,1,0,0,1,0,White European,no,no,Yes
+22,f,0,0,1,1,1,1,0,1,0,Latino,no,no,Yes
+36,m,1,1,0,1,0,1,1,1,1,White European,no,yes,Yes
+36,m,0,0,0,0,1,0,0,0,1,south asian,yes,no,No
+36,f,1,1,0,0,0,1,1,0,1,Others,no,yes,Yes
+32,m,1,0,1,1,1,0,1,0,0,White European,yes,no,Yes
+16,m,0,0,0,0,0,1,0,0,1,south asian,yes,yes,No
+28,m,0,0,0,0,0,0,0,0,0,White European,no,no,No
+18,m,1,0,0,1,0,1,1,0,0,Others,yes,no,Yes
+14,f,1,1,0,1,0,1,1,0,0,asian,no,no,Yes
+12,m,0,0,1,0,0,0,0,0,0,White European,no,no,No
+26,m,1,1,0,0,0,0,1,1,0,asian,no,yes,Yes
+26,m,0,0,0,0,1,1,1,1,0,asian,no,yes,Yes
+25,m,0,0,0,0,0,0,0,0,1,White European,no,no,No
+25,m,0,0,0,1,0,0,1,0,0,White European,yes,no,No
+30,m,1,1,1,1,0,0,1,1,1,Hispanic,yes,no,Yes
+25,m,1,1,1,1,1,1,1,1,1,asian,no,yes,Yes
+25,m,1,1,1,1,1,1,1,1,1,asian,no,yes,Yes
+30,m,1,1,1,1,1,1,1,1,1,middle eastern,no,no,Yes
+24,f,0,1,0,1,1,1,1,1,0,middle eastern,no,no,Yes
+30,f,1,1,0,0,1,1,1,0,0,White European,no,no,Yes
+30,f,0,0,0,0,0,0,0,0,0,White European,no,no,No
+24,f,0,0,0,0,0,0,0,0,1,White European,no,yes,No
+12,m,0,0,1,1,1,0,1,1,0,black,yes,no,Yes
+18,m,1,0,1,1,1,1,1,1,1,middle eastern,yes,no,Yes
+19,m,1,0,0,0,0,0,0,0,1,White European,no,yes,No
+24,m,1,1,0,0,1,1,0,1,0,asian,yes,yes,Yes
