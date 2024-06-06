@@ -2,6 +2,8 @@
 
 import { useState, ChangeEvent, FormEvent } from 'react';
 import axios from 'axios';
+import Risk from "./riskIdentified";
+import NoRisked from "./noRisk";
 
 interface FormData {
     Age_Mons: string;
@@ -37,10 +39,23 @@ const initialFormData: FormData = {
     ASD_history: ''
 };
 
+const RiskIdentified = () => (
+    <div >
+        <Risk />
+    </div>
+);
+
+const NoRisk = () => (
+    <div >
+       <NoRisked />
+    </div>
+);
+
 const ChildRiskAssessmentForm = () => {
     const [formData, setFormData] = useState<FormData>(initialFormData);
     const [error, setError] = useState<string>('');
-    const [result, setResult] = useState<string>('');
+    const [submitted, setSubmitted] = useState<boolean>(false);
+    const [isRisk, setIsRisk] = useState<boolean | null>(null);
 
     const handleChange = (e: ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
         const { name, value } = e.target;
@@ -69,13 +84,20 @@ const ChildRiskAssessmentForm = () => {
             console.log('Sending data to backend:', formData); // Log the formData being sent
             const response = await axios.post('http://127.0.0.1:8000/api/predict/', formData);
             console.log('Response from backend:', response.data); // Log the response from the backend
-            const prediction = response.data.prediction;
-            setResult(prediction === 1 ? 'Risk' : 'No Risk');
+
+            // Check if the response data is an array
+            const prediction = Array.isArray(response.data) ? response.data[0] : response.data;
+            setIsRisk(prediction === 1);
+            setSubmitted(true);
         } catch (error) {
             console.error('An error occurred:', error); // Log any errors
             setError('An error occurred while submitting the form.');
         }
     };
+
+    if (submitted) {
+        return isRisk ? <RiskIdentified /> : <NoRisk />;
+    }
 
     return (
         <div className="flex items-center justify-center mb-20 mt-24">
@@ -84,7 +106,6 @@ const ChildRiskAssessmentForm = () => {
                 <div className="relative bg-white m-14 p-6 rounded shadow-md text-sky-950">
                     <form onSubmit={handleSubmit} className="space-y-6">
                         {error && <div className="text-red-500 mb-4">{error}</div>}
-                        {result && <div className={`mb-4 ${result === 'Risk' ? 'text-red-500' : 'text-green-500'}`}>{result}</div>}
                         <div className="mb-4">
                             <label className="block mb-2 text-gray-700 font-semibold">Age of Child (months): </label>
                             <input
@@ -225,12 +246,14 @@ const ChildRiskAssessmentForm = () => {
                                 </label>
                             </div>
                         </div>
-                        <button
-                            type="submit"
-                            className="w-full bg-sky-950 text-white py-2 rounded focus:outline-none focus:ring-2 focus:ring-sky-500"
-                        >
-                            Check for Risk
-                        </button>
+                        <div className="flex items-center justify-center">
+                            <button
+                                type="submit"
+                                className="bg-sky-950 text-white py-2 px-4 rounded hover:bg-sky-900 focus:outline-none focus:bg-sky-900"
+                            >
+                                Submit
+                            </button>
+                        </div>
                     </form>
                 </div>
             </div>
