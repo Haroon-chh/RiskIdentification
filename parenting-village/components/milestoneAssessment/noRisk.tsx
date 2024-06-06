@@ -1,24 +1,23 @@
-// components/NoRisk.js
+// components/NoRisk.tsx
 
 import React from 'react';
-import { useRouter } from 'next/router';
+import Link from 'next/link';
 
-const NoRisk = () => {
-  const router = useRouter();
-
+const NoRisk: React.FC = () => {
   return (
-    <div className="flex flex-col items-center justify-center p-6 border border-gray-300 rounded-lg max-w-xl mx-auto text-center">
+    <div className="flex flex-col items-center justify-center p-8 border border-gray-300 rounded-lg max-w-xl mx-auto text-center shadow-lg mt-10">
       <div className="mb-6">
-        <p className="text-lg text-gray-800">
+        <p className="text-xl font-semibold text-gray-800">
           No risk identified.
         </p>
       </div>
-      <button 
-        className="px-6 py-3 text-white bg-blue-500 hover:bg-blue-600 rounded-lg" 
-        onClick={() => router.push('/')}
-      >
-        Go Back Home
-      </button>
+      <Link href="/" passHref>
+        <button 
+          className="px-8 py-3 text-lg font-medium text-white bg-sky-950 hover:bg-blue-600 rounded-lg transition duration-300 ease-in-out transform hover:scale-105"
+        >
+          Go Back Home
+        </button>
+      </Link>
     </div>
   );
 };
