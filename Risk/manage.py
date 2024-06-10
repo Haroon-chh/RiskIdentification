@@ -20,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+print(f'DJANGO_SETTINGS_MODULE={os.environ.get("DJANGO_SETTINGS_MODULE")}')
