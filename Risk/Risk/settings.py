@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$ut16-^1f6zhq45-lm$$27)k1bmm_f7p^y#*@bx0yzy+nw+4#r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', '.now.sh','127.0.0.1', 'localhost']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -132,13 +132,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #third setting for corsheader
 
 CORS_ALLOW_ALL_ORIGINS = True
-
-import os
-
-# Specify the directory where Django will look for additional static files during development.
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static'),
-]
-
-# Specify the directory where collected static files will be stored during deployment.
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
