@@ -18,14 +18,14 @@
       }
     ],
     "routes": [
-      {
-        "src": "/static/(.*)",
-        "dest": "/static/$1"
-      },
-      {
-        "src": "/(.*)",
-        "dest": "Risk/wsgi.py"
-      }
+        {
+            "src": "/(.*)",
+            "dest": "Risk/wsgi.py",
+            "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
+            "headers": {
+                "Access-Control-Allow-Origin": "*"
+            }
+        }
     ]
   }
   
