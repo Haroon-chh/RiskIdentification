@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$ut16-^1f6zhq45-lm$$27)k1bmm_f7p^y#*@bx0yzy+nw+4#r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app', '.now.sh']
 
 
 # Application definition
@@ -132,3 +132,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #third setting for corsheader
 
 CORS_ALLOW_ALL_ORIGINS = True
+
+import os
+STATICFILES_DIRS = os.path.join(BASE_DIR, 'static'),
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles_build', 'static')
