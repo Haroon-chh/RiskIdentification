@@ -8,7 +8,7 @@ from .serializers import Riskserializer
 # Create your views here.
 
 #path to pickle
-model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','Model','RiskIdentification.pkl')
+model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','Model','riskIdentification.pkl')
 
 #lode the pickle model
 model = joblib.load(model_path)
